@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Afghanistan",
+      "capital": "Kabul",
+      "region": "Asia",
+      "latitude": 33.93911,
+      "longitude": 67.709953
+    },
+    {
+      "name": "Albania",
+      "capital": "Tirana",
+      "region": "Europe",
+      "latitude": 41.3275469,
+      "longitude": 19.8186982
+    },
+    {
+      "name": "Algeria",
+      "capital": "Algiers",
+      "region": "Africa",
+      "latitude": 36.753768,
+      "longitude": 3.0587561
+    },
+    {
+      "name": "Andorra",
+      "capital": "Andorra la Vella",
+      "region": "Europe",
+      "latitude": 42.5063179,
+      "longitude": 1.5218355
+    },
+    {
+      "name": "Angola",
+      "capital": "Luanda",
+      "region": "Africa",
+      "latitude": -8.8399876,
+      "longitude": 13.2894368
+    }
+  ]
+  
