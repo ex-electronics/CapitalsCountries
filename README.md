@@ -7,4 +7,4 @@ Country.json Solution: RegionsWithJsonData.js
 
 -- Country Data: Country.json
 
-# CapitalsCountries
+# CapitalCountries
